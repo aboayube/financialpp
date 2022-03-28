@@ -1,0 +1,21 @@
+documetn
+-profile  chef
+-profile user
+-contactus 
+-languages
+-api
+-server upload
+
+-websocket
+
+
+حل مشكلة اضافة واضافات للوجبة
+
+
+ايش حل لما يدفع اكثر من وحده كيف 
+
+ كل طلبات بنائنا عليها ايش اعمل طريقة ارسال
+
+
+
+تاكد من ةعملية الدفع
